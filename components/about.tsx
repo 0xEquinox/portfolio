@@ -79,7 +79,6 @@ export const About = () => {
                   {/*  alt="John Developer"*/}
                   {/*  className="w-full h-full object-cover rounded-2xl"*/}
                   {/*/>*/}
-u
                 </div>
               </Card3D>
             </div>
