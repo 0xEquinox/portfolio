@@ -17,7 +17,7 @@ export const ProjectsShowcase = () => {
       live: "#",
       featured: true,
       gradient: "from-purple-500 via-pink-500 to-red-500",
-      slug: "ai-analytics-dashboard",
+      slug: "placeholder-project",
     },
     {
       title: "AI Personal Finance App",
@@ -27,7 +27,7 @@ export const ProjectsShowcase = () => {
       live: "#",
       featured: true,
       gradient: "from-green-400 via-blue-500 to-purple-600",
-      slug: "blockchain-trading-platform",
+      slug: "placeholder-project",
     },
   ]
 

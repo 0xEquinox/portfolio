@@ -17,7 +17,7 @@ export const BlogShowcase = () => {
       readTime: "8 min read",
       category: "React",
       gradient: "from-blue-500 to-purple-600",
-      slug: "building-scalable-react-applications",
+      slug: "placeholder-post",
     },
     {
       title: "Placeholder",
@@ -26,7 +26,7 @@ export const BlogShowcase = () => {
       readTime: "12 min read",
       category: "AI",
       gradient: "from-green-500 to-teal-600",
-      slug: "future-of-web-development-ai",
+      slug: "placeholder-post",
     },
     {
       title: "Placeholder",
@@ -35,7 +35,7 @@ export const BlogShowcase = () => {
       readTime: "10 min read",
       category: "Next.js",
       gradient: "from-purple-500 to-pink-600",
-      slug: "nextjs-14-server-components",
+      slug: "placeholder-post",
     },
   ]
 

@@ -14,6 +14,20 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "placeholder-post",
+    title: "Placeholder Blog Post",
+    excerpt:
+      "This is a placeholder blog post to demonstrate the structure of the blog posts data. It will be replaced with actual content soon.",
+    content: `# Placeholder Blog Post`,
+    date: "Jan 1, 2025",
+    readTime: "5 min read",
+    category: "General",
+    gradient: "from-gray-500 to-gray-600",
+    featured: false,
+    author: "placeholder",
+    tags: ["Placeholder", "Demo", "Blog"],
+  },
+  {
     slug: "building-scalable-react-applications",
     title: "Building Scalable React Applications with Modern Architecture",
     excerpt:

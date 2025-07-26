@@ -20,6 +20,38 @@ export interface Project {
 
 export const projects: Project[] = [
   {
+   slug: "placeholder-project",
+    title: "Placeholder Project",
+    description: "This is a placeholder project for demonstration purposes",
+    longDescription: "This project serves as a placeholder to demonstrate the structure and content of a project entry.",
+    tech: ["placeholder", "placeholder", "placeholder"],
+    github: "github.com",
+    live: "https://placeholder.com",
+    featured: false,
+    gradient: "from-gray-500 to-gray-700",
+    category: "Placeholder",
+    images: [
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+    ],
+    challenges: [
+      "This is a placeholder challenge for demonstration purposes",
+      "Another placeholder challenge to show structure",
+    ],
+    solutions: [
+      "This is a placeholder solution for demonstration purposes",
+      "Another placeholder solution to show structure",
+    ],
+    features: [
+      "This is a placeholder feature for demonstration purposes",
+      "Another placeholder feature to show structure",
+    ],
+    timeline: "1 month",
+    teamSize: "1 developer",
+    role: "Placeholder Developer",
+  },
+  {
     slug: "ai-analytics-dashboard",
     title: "AI-Powered Analytics Dashboard",
     description: "Real-time data visualization platform with machine learning insights and predictive analytics",

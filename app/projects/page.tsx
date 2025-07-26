@@ -24,7 +24,7 @@ export default function ProjectsPage() {
       featured: true,
       gradient: "from-purple-500 via-pink-500 to-red-500",
       category: "Full-Stack",
-      slug: "ai-analytics-dashboard",
+      slug: "placeholder-project",
     },
     {
       title: "AI Personal Finance App",
@@ -35,7 +35,7 @@ export default function ProjectsPage() {
       featured: true,
       gradient: "from-green-400 via-blue-500 to-purple-600",
       category: "Mobile",
-      slug: "blockchain-trading-platform",
+      slug: "placeholder-project",
     },
     {
       title: "HackPNW",
@@ -47,7 +47,7 @@ export default function ProjectsPage() {
       featured: false,
       gradient: "from-yellow-400 via-red-500 to-pink-500",
       category: "Event",
-      slug: "ar-shopping-experience",
+      slug: "placeholder-project",
     },
     {
       title: "Synapse Grade Viewer Mobile App",
@@ -59,7 +59,7 @@ export default function ProjectsPage() {
       featured: false,
       gradient: "from-cyan-400 via-blue-500 to-indigo-600",
       category: "Full-Stack",
-      slug: "realtime-collaboration-tool",
+      slug: "placeholder-project",
     },
   ]
 
